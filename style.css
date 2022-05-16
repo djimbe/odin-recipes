@@ -1,3 +1,14 @@
-.recipe{
+.test {
     font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.pic {
+    height: auto;
+    width: 200px;
+}
+
+body{
+    background-color: lightpink;
 }
