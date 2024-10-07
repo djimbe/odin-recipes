@@ -1,0 +1,28 @@
+.image{
+    width: 600px;
+    height: auto;
+}
+
+*{
+    font-family: sans-serif;
+}
+
+.title{
+    text-align: center;
+    font-size: 40px;
+}
+
+.ingridients,
+.steps{
+    text-decoration: underline;
+    font-weight: 600;
+}
+
+.list{
+    font-weight: 300;
+    font-size: 20px;
+}
+
+.description{
+    font-size: 20px;
+}
